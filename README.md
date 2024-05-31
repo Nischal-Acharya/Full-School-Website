@@ -15,7 +15,7 @@ This project is a comprehensive website for a technical college, designed to pro
 ## Installation
 
 ### Linux
-1. Clone this repository to your local machine: `git clone https://github.com/your-repo.git`
+1. Clone this repository to your local machine: `git clone https://github.com/Nischal-Acharya/Full-School-Website.git`
 2. Ensure you have PHP installed: `sudo apt install php`
 3. Install MySQL: `sudo apt install mysql-server`
 4. Start MySQL service: `sudo service mysql start`
