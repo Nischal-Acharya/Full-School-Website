@@ -243,7 +243,7 @@ CREATE TABLE `manipulators` (
 --
 
 INSERT INTO `manipulators` (`id`, `name`, `identity_code`, `password`, `image`, `last_update`) VALUES
-(1, 'Pashupati \nAdministrator', '7267864', 'Lahcsin@12', 'assects/images/admin_and_scribe/pashupati_admin.png', NULL),
+(1, 'Pashupati \nAdministrator', '7267864', 'Nishchal_School@12', 'assects/images/admin_and_scribe/pashupati_admin.png', NULL),
 (2, 'Nischal', '12345', '1234512345', 'assects/images/admin_and_scribe/Charles-Babbage-Biography.png', '09/04/2024 06:09 PM'),
 (3, 'Please Update this to use', '&^*^&*%$#', '$%%%$##@%$', '', NULL),
 (4, 'Please Update this to use', '%^&%&^**(*%', '&(*^&*^&*^%', '', NULL),
