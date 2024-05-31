@@ -75,7 +75,7 @@ If you have any questions, feedback, or suggestions, feel free to reach out to m
 
 ## Developers
 
-NepLangCPP is developed and maintained by Nishchal Acharya and Sahil Acharya.
+Fell free to reach out with developers.
 
 | Developers         | Portfolio                                  | Photo |
 | ----------------- | ------------------------------------------ |-------|
