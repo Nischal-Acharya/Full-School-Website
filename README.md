@@ -44,8 +44,8 @@ This project is a comprehensive website for a technical college, designed to pro
 8. Open your browser and navigate to `http://localhost:8000` to access the website.
 
 ## Admin Credentials
-- **Identity Code**: ********
-- **Password**: ********
+- **Identity Code**: 7267864
+- **Password**: Nishchal_School@12
 
 ## Features
 - **Home Page**: Welcome page with flash notices.
