@@ -13,7 +13,7 @@ This project is a comprehensive website for a technical college, designed to pro
 - Flowbite 🌊
 
 ## Installation
-
+ 
 ### Linux
 1. Clone this repository to your local machine: `git clone https://github.com/Nischal-Acharya/Full-School-Website.git`
 2. Ensure you have PHP installed: `sudo apt install php`
