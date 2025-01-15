@@ -1,6 +1,11 @@
 # College Website 🎓
 
-
+<p align="center">
+  <a href="https://github.com/Nischal-Acharya/Full-School-Website/graphs/contributors"><img src="https://img.shields.io/github/contributors/Nischal-Acharya/Full-School-Website?style=for-the-badge" /></a>
+  <a href="https://github.com/Nischal-Acharya/Full-School-Website/stargazers"><img src="https://img.shields.io/github/stars/Nischal-Acharya/Full-School-Website?style=for-the-badge" /></a>
+  <a href="https://github.com/Nischal-Acharya/Full-School-Website/forks"><img src="https://img.shields.io/github/stars/Nischal-Acharya/Full-School-Website?style=for-the-badge" /></a>
+  <a href="https://github.com/Nischal-Acharya/Full-School-Website/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Nischal-Acharya/Full-School-Website?style=for-the-badge&color=purple" /></a>
+</p>
 
 
 ## Overview
