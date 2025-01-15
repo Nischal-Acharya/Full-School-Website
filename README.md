@@ -7,6 +7,7 @@
   <a href="https://github.com/Nischal-Acharya/Full-School-Website/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Nischal-Acharya/Full-School-Website?style=for-the-badge&color=purple" /></a>
 </p>
 
+
 ## Overview
 This project is a comprehensive website for a technical college, designed to provide students, staff, and visitors with easy access to important information and resources.
 
