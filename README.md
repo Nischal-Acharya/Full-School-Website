@@ -95,4 +95,4 @@ Enjoy website explore and fell free to modify this, just dive, fork and modify! 
 
 ---
 
-### Thank you for visit Full-School-Website and please don't forgot to STAR repo if you found this useful! 🎉
+⭐ **Don't forget to star this repository if you found it useful!**
