@@ -89,7 +89,7 @@ Fell free to reach out with developers.
 
 | Developers         | Portfolio                                  | Photo |
 | ----------------- | ------------------------------------------ |-------|
-| Nishchal Acharya  | [https://nishchalacharya.com.np](https://nishchalacharya.com.np)  | <img src="https://nishchalacharya.com.np/img/hero.png" alt="Nishchal Acharya" width="100"/> |
+| Nishchal  | [https://nishchalacharya.com.np](https://nishchalacharya.com.np)  | <img src="https://nishchalacharya.com.np/img/hero.png" alt="Nishchal Acharya" width="100"/> |
 
 Enjoy website explore and fell free to modify this, just dive, fork and modify! 🎉
 
